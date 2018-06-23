@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>view </h1>
+	<h1>Edited from the other workspace </h1>
 	<form action="EmployeeManagerServlet" method="post">
 		Id: <input type="text" name="id" size="20"><br><br>
 		Age: <input type="text" name="age" size="20"><br><br>
